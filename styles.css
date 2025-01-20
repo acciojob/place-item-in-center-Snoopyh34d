@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+
+*{
+	padding:0;
+	margin:0;
+	font-family:Arial;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.item-1body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.holder{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+  width: 500px;
+  height: 500px;
+  background-color: aquamarine;
+}
